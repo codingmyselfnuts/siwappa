@@ -1,0 +1,32 @@
+//
+// Bootstrap 4
+// https://github.com/twbs/bootstrap/blob/v4-dev/scss/_variables.scss
+//
+
+//
+// Options
+//
+// Quickly modify global styling by enabling or disabling optional features.
+// http://v4-alpha.getbootstrap.com/getting-started/options/
+
+$enable-flex: false;  // Disabled because there are some issues with the search
+                      // filters. You can enable again and see if it works.
+
+//
+// Custom Options
+//
+
+$small-grid-gutter-width: 8px;
+
+//
+// Typography
+//
+// Font, line-height, and color for body text, headings, and more.
+
+$font-family-sans-serif: "Roboto", Arial, sans-serif;
+
+//
+// Colors
+//
+
+$generic-border-color: #ddd;
